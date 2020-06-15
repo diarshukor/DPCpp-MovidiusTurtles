@@ -1,4 +1,4 @@
-# TemptingEighteen
+# TemptingML-RDF
 
 # Machine Learning in Eighteen Months
 
