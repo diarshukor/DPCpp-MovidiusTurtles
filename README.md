@@ -1,8 +1,8 @@
-# TemptingML-RDF
+### DPCpp-MovidiusTurtles
 
-# Machine Learning in Eighteen Months
+### Machine learning in one year
 
-##### Forseeing requirements for this DPC project, I am compiling a list of available books to read, optionally. This list will change.
+##### Forseeing requirements for this DPC project, I am compiling a list of available books to read, optional. This list will change.
 
 For this project, on my requirements are:
 
