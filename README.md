@@ -6,20 +6,4 @@
 
 For this project, on my requirements are:
 
-
-ML.NET 
-
-
-Apache for .NET
-
-
-LinqInfer
-
-
-dotNetRDF
-
-
-CNTK
-
-
-and maybe a Compressor package if .Net Core doesn't suffice
+Using DPC++ in a novel and new way to address the leap in preformance and the new features of oneApi it is endowed with.
